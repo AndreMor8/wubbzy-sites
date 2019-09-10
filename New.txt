@@ -1,1 +1,2 @@
 This is a new file for this repository. Look at the magic
+Each repository update causes a new message on Discord.
