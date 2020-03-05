@@ -1,4 +1,4 @@
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 		<!--<link rel="shortcut icon" href="favicon.ico">-->
@@ -6,44 +6,39 @@
 		<script type="text/javascript" src="./swfobject.js"></script>
 		<script type="text/javascript" src="./swffit.js"></script>
 		<script type="text/javascript">
-		
 			var flashvars = {};
 			var params = { 
 				menu : false
 			};
 			var attributes = {};
-		
 			swfobject.embedSWF("wubbclubsite.swf", "my_flash", "974", "550", "9.0.124", "expressInstall.swf", flashvars, params, attributes );
 			swffit("my_flash",974,550);
 		</script>
 		<style type="text/css">
-			body{
+			body {
 				background-color: #FFFFFF;
 				color: #33244A;
 				font-size:16px;
 				font-family:Arial, Helvetica, sans-serif; 
 				font-weight:bold; 
-				
 				/*margin: 0;
 				padding: 0;*/
 				table-layout:
 			}
-			
-			#header{
+			#header {
 				background: url(images/need_flash_top.gif) no-repeat top left ;
 				width:600px;
 				height:140px; 
 			}
-			#content{
+			#content {
 				width:600px;
 				height:150px;
 			}
-			#footer{
+			#footer {
 				background: url(images/need_flash_bottom.gif) no-repeat top left ;
 				width:600px;
 				height:160px; 
 			}
-			
 		</style>
 	</head>
 	<body>
@@ -58,9 +53,9 @@
                 <td width="592" align="center">
                 This site requires a newer version<br/> 
                 of Adobe Flash Player.<br/>
-                <a href="https://web.archive.org/web/20141222124607/http://www.adobe.com/go/getflashplayer">Get it now!</a><br/>
+                <a href="http://www.adobe.com/go/getflashplayer">Get it now!</a><br/>
                 <br/> 
-                <a href="https://web.archive.org/web/20141222124607/http://www.adobe.com/go/getflashplayer"><img src="images/160x41_Get_Flash_Player.jpg" width="160" height="41" alt="Get Adobe Flash player" title="Get Adobe Flash player" border="0"/></a>
+                <a href="http://www.adobe.com/go/getflashplayer"><img src="images/160x41_Get_Flash_Player.jpg" width="160" height="41" alt="Get Adobe Flash player" title="Get Adobe Flash player" border="0"/></a>
                 </td>
                 <td width="4"><img src="images/need_flash_side.gif" width="4" height="150"/></td>
                 </tr>
@@ -69,7 +64,6 @@
             <div id="footer">
                 &nbsp;
             </div>
-            
        </div>
 </body>
 </html>
