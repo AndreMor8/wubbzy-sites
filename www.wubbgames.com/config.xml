@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<shellURL>wubbclubshell.swf</shellURL>
+	
+	<emailURL>http://www.smashingideas.com/cgi-bin/proxy/nph-proxy2.cgi/000000A/http/www.wubbgames.com/email.php</emailURL>
+	
+	<games>
+		<disco>
+			<url>games/disco/discodancing.swf</url>
+			<width>610</width>
+			<height>410</height>
+			<videoURL>videos/disco.flv</videoURL>
+			<printableURL>games/disco/printabledisco.swf</printableURL>
+			<storeURL window="_blank">http://www.fisher-price.com/us/wubbzy</storeURL>
+		</disco>
+		<kickball>
+			<url>games/kickball/kickball.swf</url>
+			<width>510</width>
+			<height>543</height>
+			<videoURL>videos/kickball.flv</videoURL>
+			<printableURL>games/kickball/printablekickball.swf</printableURL>
+			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+		</kickball>
+		<kookyKostume>
+			<url>games/kookykostume/kostumekreator.swf</url>
+			<width>610</width>
+			<height>410</height>
+			<videoURL>videos/kookykostume.flv</videoURL>
+			<printableURL>games/kookykostume/printablekostume.swf</printableURL>
+		</kookyKostume>
+		<sketchpad>
+			<url>games/sketchpad/sketchitysketchpad.swf</url>
+			<width>510</width>
+			<height>543</height>
+			<videoURL>videos/sketchpad.flv</videoURL>
+			<printableURL>games/sketchpad/printablesketchpad.swf</printableURL>
+		</sketchpad>
+		<stackums>
+			<url>games/stackums/stackums.swf</url>
+			<width>510</width>
+			<height>543</height>
+			<videoURL>videos/stackums.flv</videoURL>
+			<printableURL>games/stackums/printablestackums.swf</printableURL>
+			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+		</stackums>
+		<wubbHunt>
+			<url>games/wubbhunt/wubbhunt.swf</url>
+			<width>610</width>
+			<height>410</height>
+			<videoURL>videos/wubbhunt.flv</videoURL>
+			<printableURL>games/wubbhunt/printablewubbhunt.swf</printableURL>
+			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+		</wubbHunt>
+	
+	</games>
+
+</config>
