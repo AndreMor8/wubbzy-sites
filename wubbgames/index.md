@@ -1,4 +1,4 @@
-<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<html>
 	<head>
 		<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"/>
 		<!--<link rel="shortcut icon" href="favicon.ico">-->
@@ -53,9 +53,9 @@
                 <td width="592" align="center">
                 This site requires a newer version<br/> 
                 of Adobe Flash Player.<br/>
-                <a href="https://web.archive.org/web/20141222124607/http://www.adobe.com/go/getflashplayer">Get it now!</a><br/>
+                <a href="http://www.adobe.com/go/getflashplayer">Get it now!</a><br/>
                 <br/> 
-                <a href="https://web.archive.org/web/20141222124607/http://www.adobe.com/go/getflashplayer"><img src="images/160x41_Get_Flash_Player.jpg" width="160" height="41" alt="Get Adobe Flash player" title="Get Adobe Flash player" border="0"/></a>
+                <a href="http://www.adobe.com/go/getflashplayer"><img src="images/160x41_Get_Flash_Player.jpg" width="160" height="41" alt="Get Adobe Flash player" title="Get Adobe Flash player" border="0"/></a>
                 </td>
                 <td width="4"><img src="images/need_flash_side.gif" width="4" height="150"/></td>
                 </tr>
