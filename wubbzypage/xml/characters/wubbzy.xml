@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-02.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-02.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-03.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-03.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-04.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-04.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/wubbzy/wubbzy-05.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-05.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/wubbzy/wubbzy-06.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-06.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-07.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-07.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-08.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-08.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/wubbzy/wubbzy-09.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-09.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/wubbzy/wubbzy-10.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-10.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/wubbzy/wubbzy-11.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-11.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/wubbzy/wubbzy-12.jpg</image>
+        <thumbnail>images/characters/thumbnails/wubbzy-12.png</thumbnail>
+    </pic>
+</images>

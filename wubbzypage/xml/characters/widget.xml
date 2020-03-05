@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>images/characters/widget/widget-01.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-01.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/widget/widget-02.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-02.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/widget/widget-08.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-08.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/widget/widget-09.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-09.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/widget/widget-10.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-10.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/widget/widget-11.jpg</image>
+        <thumbnail>images/characters/thumbnails/widget-11.png</thumbnail>
+    </pic>
+</images>

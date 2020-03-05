@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<images>
+    <pic>
+        <image>images/characters/daizy/daizy-01.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-01.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/daizy/daizy-02.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-02.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/daizy/daizy-03.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-03.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/daizy/daizy-04.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-04.png</thumbnail>
+    </pic>
+	<pic>
+        <image>images/characters/daizy/daizy-05.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-05.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/daizy/daizy-06.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-06.png</thumbnail>
+    </pic>
+    <pic>
+        <image>images/characters/daizy/daizy-07.jpg</image>
+        <thumbnail>images/characters/thumbnails/daizy-07.png</thumbnail>
+    </pic>
+</images>

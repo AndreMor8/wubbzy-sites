@@ -1,0 +1,24 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Wubbzy's Egg-Cellent Easter Sweepstakes</title>
+
+<link href="messages.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="page">
+<div id="form_wrapper"><div id="thank_you">
+<p>&nbsp;</p>
+<p>Thank you for entering the sweepstakes,<br />
+winners will be
+announced by April 29th, 2011. </p>
+<div id="footer_copy">
+<br />
+Visit Bob Boyle online at <a href="http://bobboyle.blogspot.com" target="_blank">bobboyle.blogspot.com</a><br />
+<br />
+<br />
+<img src="images/bob2.jpg" width="387" height="206" /> </div>
+</div></div>
+</div><body>
+</html>

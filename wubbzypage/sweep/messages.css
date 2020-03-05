@@ -1,0 +1,35 @@
+body {font:12px Verdana, Arial, Helvetica, sans-serif; color:#666; background:url(images/bg.jpg) repeat-x #0B6F93; margin:0px; padding:0px;}
+#page {width:600px; height:763px; margin:0px auto; background:url(images/form_bg.jpg) no-repeat;}
+#form_wrapper{
+	padding:220px 0px 0px 0px;
+	text-align: center;
+}
+#form_wrapper2{
+	padding:235px 0px 0px 0px;
+	text-align: center;
+}
+#thank_you {
+	text-align: center;
+	font-size: 18px;
+}
+
+#terms {
+	text-align:center;
+	color:#000;
+	margin:0px 0px 20px 0px;
+}
+
+#terms a{
+	color:#FF0;
+}
+#footer_copy {
+	width:600px;
+	margin:0px auto;
+	font-size: 18px;
+}
+#copy {
+	width:400px;
+	margin:20px auto;
+	font-size: 13px;
+}
+label.error {font-size:10px; color:#C00; font-weight:bold; display:block;}
