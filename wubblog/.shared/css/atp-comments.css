@@ -1,0 +1,145 @@
+/* comments */
+.comments-open {
+	margin-bottom: 25px;
+}
+
+.comment-form .grayText {
+	color: #999;
+}
+
+.comment-form .comments-open-subtext {
+	margin: 2px 0 20px 0;
+	font-size: 11px;
+}
+
+.comment-form .errorBG {
+	background-color: #ffebe3;
+}
+
+.comment-form .comment-error,
+.comment-form .comment-error,
+.comment-form .comment-error {
+	margin: 2px 0 16px 3px;
+	font-size: .9em;
+}
+
+.comment-form .active-error {
+	display: block;
+}
+
+/* comment notification boxes */
+.yellowBox,
+.yellowGreenBox,
+.redBox {
+	background: url(../images/atpcomment-gradient.png) top left repeat-x #ffffe6;
+	border: 1px solid;
+	margin: 10px 0 50px 0;
+	padding: 8px;
+	color: #000;
+}
+
+.lessBoxMargin {
+    margin: 20px 0px 25px 0px;
+}
+
+.commentCompleteMargin {
+    margin: 25px 0 20px 0px;
+}
+
+.yellowBox p,
+.yellowGreenBox p,
+.redBox p {
+	margin-top: 0px;
+	color: #000;
+}
+
+/* hiddenBox class */
+.hiddenBox {
+	display: none;
+}
+
+.visibilityHiddenBox {
+	visibility: hidden;
+}
+
+.comments-open label.hiddenBox {
+	display: none;
+}
+
+/* yellow/yellow prompt box */
+.yellowBox {
+	border: 1px solid #ffbb33;
+}
+
+/* yellow/green complete box */
+.yellowGreenBox {
+	border: 1px solid #669900;
+}
+
+/* red/red error box */
+.redBox {
+	border: 1px solid #cc2200;
+}
+
+.captchaErrorText {
+  	background: url(../../images/atpcomment-error-icon.png) top left no-repeat;
+  	padding-left: 20px;
+  	font-weight: bold;
+}
+
+.comment-inline-edit,
+.comment-inline-edit textarea,
+.comment-inline-preview,
+.comment-inline-preview p {
+    margin-bottom: 8px;
+}
+
+.comment-inline-preview-buttons {
+    margin-top: 8px;
+}
+
+.comment-preview {
+    margin-top: 20px;
+}
+
+.comment-preview-content {
+    float: left;
+    clear: right;
+    margin-top: 8px;
+}
+
+.comment-form .comments-open-footer{
+    width: 300px;
+}
+
+.comment-form .cancel-edit{
+    padding: 5px 0;
+    float: right;
+}
+
+.comment-data .comment-footer {
+    clear: both;
+    margin-bottom: 30px; 
+} 
+
+.comment-footer .command-edit-comment,
+.comment-footer .command-delete-comment {
+    font-weight: bold;
+}
+
+.comment-footer .comment-footerlinks {
+    float: left;
+}
+
+.comment-footer .comment-datetime {
+    float: right;
+    clear: right;
+}
+
+.comment-reply .comment-has-avatar {
+    margin-left: 60px;
+}
+
+.comment {
+    padding-top: 15px;
+}

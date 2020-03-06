@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:foaf="http://xmlns.com/foaf/0.1/"
+         xmlns:bio="http://purl.org/vocab/bio/0.1/">
+<foaf:Person>
+<foaf:mbox_sha1sum>9ef0038ad208a677973ce90279ff6805d5e3178c</foaf:mbox_sha1sum>
+<foaf:weblog rdf:resource="/" />
+<foaf:name>bob boyle</foaf:name>
+
+<foaf:mbox rdf:resource="mailto:carrie@frederator.com" />
+
+<bio:olb>BOB BOYLE- creator of Nick Jr. animated show WOW! WOW! WUBBZY!</bio:olb>
+<bio:keywords>vinyl toys, otsider art, running, Morning Becomes Eclectic on KCRW, Giant Robot magazine, oatmeal with bananas and raisins, Dr. Seuss, Charles Schulz, Taro Gomi, Picasso, anything related to Studio Ghibili (especially the music of Joe Hisaishi),the Dallas Cowboys, hummus...</bio:keywords>
+<foaf:img rdf:resource=".a/6a00d834521acb69e200e5500345788833-150wi" />
+
+</foaf:Person>
+</rdf:RDF>
+<!-- ph=1 -->
+<!-- nhm -->
