@@ -1,0 +1,169 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<title>Wubbzy's Egg-Cellent Easter Sweepstakes</title>
+<script type="text/javascript">
+<!--
+function MM_validateForm() { //v4.0
+  if (document.getElementById){
+    var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+    for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=document.getElementById(args[i]);
+      if (val) { nm=val.name; if ((val=val.value)!="") {
+        if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+          if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+        } else if (test!='R') { num = parseFloat(val);
+          if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+          if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+            min=test.substring(8,p); max=test.substring(p+1);
+            if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+      } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+    } 
+				if(document.myform.state.selectedIndex==0){
+  	errors+='- You must select a state\n';
+  }
+if (errors) alert('The following error(s) occurred:\n'+errors);
+    document.MM_returnValue = (errors == '');
+} }
+//-->
+</script>
+<link href="messages.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="page"><div id="form_wrapper2">
+<div id="copy">Fill out the form below to be entered for a chance to win a piece
+of original artwork from Wow! Wow! Wubbzy! creator Bob Boyle. Sweepstakes ends
+April 10th, 2011.</div>
+<form action="/sweep/index2.php?" method="POST" name="myform" onsubmit="MM_validateForm('firstname','','R','lastname','','R','email','','RisEmail','dob_month','','RinRange1:12','dob_day','','RinRange1:31','dob_year','','RinRange1900:2000','street_address','','R','city','','R','zip','','RinRange0:99999');return document.MM_returnValue">
+<div align="center">
+<table width="500" cellpadding="2" cellspacing="2" >
+<tr>
+<td width="42%">
+<div align="right">First name: </div></td><td width="58%"><input name="firstname" type="text" id="firstname"  size="20" >
+</td></tr>
+<tr><td>
+<div align="right">Last Name: </div></td><td><input name="lastname" type="text" id="lastname" size="20" >
+</td></tr>
+<tr><td>
+<div align="right">Email: </div></td><td><input name="email" type="text" id="email" size="20" >
+</td></tr>
+<tr>
+<td>
+<div align="right">Date Of Birth: </div></td><td><input name="dob_month" type="text" id="dob_month" value="" size="4" maxlength="2" > 
+/ 
+<input name="dob_day" type="text" id="dob_day" value="" size="4" maxlength="2" /> 
+/ 
+<input name="dob_year" type="text" id="dob_year" value="" size="6" maxlength="4" /> 
+(MM/DD/YYYY)</td></tr>
+<tr>
+<td><div align="right">Street Address: </div></td>
+<td><input type="text" name="street_address" size="20" id="street_address" /></td>
+</tr>
+<tr>
+<td><div align="right">City: </div></td>
+<td><input type="text" name="city" size="20" id="city" /></td>
+</tr>
+<tr>
+<td><div align="right">State: </div></td>
+<td><select name="state">
+<option selected="selected">Select a State</option>
+<option value="AL">Alabama</option>
+<option value="AK">Alaska</option>
+<option value="AZ">Arizona</option>
+<option value="AR">Arkansas</option>
+<option value="CA">California</option>
+<option value="CO">Colorado</option>
+<option value="CT">Connecticut</option>
+<option value="DE">Delaware</option>
+<option value="DC">District of Columbia</option>
+<option value="FL">Florida</option>
+<option value="GA">Georgia</option>
+<option value="HI">Hawaii</option>
+<option value="ID">Idaho</option>
+<option value="IL">Illinois</option>
+<option value="IN">Indiana</option>
+<option value="IA">Iowa</option>
+<option value="KS">Kansas</option>
+<option value="KY">Kentucky</option>
+<option value="LA">Louisiana</option>
+<option value="ME">Maine</option>
+<option value="MD">Maryland</option>
+<option value="MA">Massachusetts</option>
+<option value="MI">Michigan</option>
+<option value="MN">Minnesota</option>
+<option value="MS">Mississippi</option>
+<option value="MO">Missouri</option>
+<option value="MT">Montana</option>
+<option value="NE">Nebraska</option>
+<option value="NV">Nevada</option>
+<option value="NH">New Hampshire</option>
+<option value="NJ">New Jersey</option>
+<option value="NM">New Mexico</option>
+<option value="NY">New York</option>
+<option value="NC">North Carolina</option>
+<option value="ND">North Dakota</option>
+<option value="OH">Ohio</option>
+<option value="OK">Oklahoma</option>
+<option value="OR">Oregon</option>
+<option value="PA">Pennsylvania</option>
+<option value="RI">Rhode Island</option>
+<option value="SC">South Carolina</option>
+<option value="SD">South Dakota</option>
+<option value="TN">Tennessee</option>
+<option value="TX">Texas</option>
+<option value="UT">Utah</option>
+<option value="VT">Vermont</option>
+<option value="VA">Virginia</option>
+<option value="WA">Washington</option>
+<option value="WV">West Virginia</option>
+<option value="WI">Wisconsin</option>
+<option value="WY">Wyoming</option>
+</select></td>
+</tr>
+<tr><td><div align="right">Zipcode: </div></td>
+<td><input name="zip" type="text" id="zip" size="6" maxlength="5" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input name="accept_rules" type="checkbox" id="accept_rules" value="1" /> 
+<label>I have read and accept the <a href="rules.html" target="_blank">Official Sweepstakes Rules</a><br />
+</label></td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<input name="opt_in" type="checkbox" id="opt_in" value="1" /><label>I would like
+to receive emails and<br />
+promotions from Anchor Bay Entertainment<br />
+</label></td>
+</tr>
+<tr><td colspan="2" align="center"><input type="submit" name="submit" value="Submit" >
+</td></tr></table></div>
+
+<input type="hidden" name="MM_insert" value="myform" />
+</form><div id="footer_copy">
+Visit Bob Boyle online at <a href="http://bobboyle.blogspot.com" target="_blank">bobboyle.blogspot.com</a></div></div>
+</div><div id="terms"><a href="http://www.wubbzy.com/privacy.html" target="_blank">Privacy
+Policy</a> &bull; <a href="http://www.wubbzy.com/terms.html" target="_blank">Terms of Service</a></div><body>
+</html><!--
+     FILE ARCHIVED ON 05:39:28 Mar 25, 2011 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:47:17 Jul 01, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+-->
+<!--
+playback timings (ms):
+  CDXLines.iter: 10.119 (3)
+  esindex: 0.015
+  captures_list: 332.818
+  LoadShardBlock: 249.184 (3)
+  xauthn.identify: 69.71
+  RedisCDXSource: 1.016
+  exclusion.robots.policy: 70.018
+  load_resource: 252.636
+  xauthn.chkprivs: 0.036
+  exclusion.robots: 70.028
+  PetaboxLoader3.resolve: 169.772 (2)
+  PetaboxLoader3.datanode: 323.948 (4)
+-->
