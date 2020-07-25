@@ -1,0 +1,250 @@
+body {
+	background: #effafe;
+	color:#6a6868;
+	font-weight: 100;
+	font-size:12px;
+	margin: 0 auto !important;
+}
+/* App Detail Style Sheet */
+#main #primary_singular {
+	margin: 0;
+	width:896px;
+	display:block;
+	padding:0;
+	border: none 0;
+}
+#main #primary_singular #content_main {
+	margin: 0 0 2em 0;
+	width: auto;
+	display: inline-block;
+}
+#main #primary_singular #content_main a img {
+	border: none 0;
+	outline: none 0;
+}
+#main #primary_singular #content_main slider {
+	display: block;
+	float: left;
+	height: 309px;
+	width: 394px;
+	border: none 0;
+	outline: none 0;
+	margin: 0 1em 0 0;
+	background: url(images/ipad_img1.jpg) no-repeat 39px 33px;
+}
+#main #primary_singular #content_main slider img {
+	border: none 0;
+	outline: none 0;
+	margin: 0;
+	padding: 0;
+}
+#main #primary_singular #content_main slider .slider_nav {
+	border: none 0;
+	outline: none 0;
+	margin: 5px auto 0 auto;
+	padding: 0;
+	position: absolute;
+	display: block;
+}
+.brief, .brief_tab {
+	float: right;
+}
+.brief {
+	width: 51%;
+}
+.brief_tab {
+	width: 40%;
+}
+#main #primary_singular h1,#main #primary_singular h2,#main #primary_singular h3,#main #primary_singular h4 {
+	color: #000;
+	margin: 0;
+	padding: 0;
+	font-weight: 600;
+	font-size: 14px;
+}
+#main #primary_singular h1 {
+	color: #0397d6;
+	font-size: 26px;
+	font-weight: normal;
+	line-height: 44px;
+}
+#main #primary_singular h2 {
+	font-size: 20px;
+	line-height: 22px;
+}
+#main #primary_singular h3 {
+	color: #000;
+	font-size: 16px;
+}
+.brief p, .brief_tab p {
+	color: #6a6868;
+	font-size: 12px;
+	font-weight: normal;
+	line-height: 18px;
+	margin: 10px 0 12px 0;
+	padding: 0;
+	text-align: justify;
+	clear: both;
+}
+.brief .links {
+	clear: both;
+	display: block;
+	margin: 12px 0 0 0;
+}
+.brief .links .appstore {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+.brief .links img {
+	float: left;
+	margin: 0 10px 0 0;
+	padding: 0;
+}
+.brief .links span {
+	float: left;
+	font-size: 12px;
+	line-height: 12px;
+	padding: 0;
+	margin: 5px 0 0 0;
+	color: #6a6868;
+}
+.brief .links span span {
+	font-size: 14px;
+	font-weight: bold;
+}
+.brief .links .sharethis {
+	float: right;
+	margin: 0;
+	padding: 0;
+	color: #6a6868;
+	font-weight: bold;
+}
+.brief_tab img {
+	float: left;
+	margin: 15px 10px 0 0;
+	padding: 0;
+}
+.brief_tab h4 {
+	color: #000;
+	margin: 0;
+	padding: 0;
+}
+.brief_tab .block {
+	float: left;
+	padding: 5px 0 19px 0;
+	margin: 0;
+	width: 100%;
+	border-top: solid 1px #ddd;
+	border-bottom: solid 1px #ddd;
+}
+.brief_tab .block section {
+	width: 100%;
+	display: table;
+}
+.brief_tab .block section .rightFloat {
+	width: 59%;
+	color: #6a6868;
+	margin: 25px 0 0 0;
+	float: right;
+}
+.brief_tab .block section span {
+	color: #000;
+	font-size: 12px;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+	clear: both;
+	display: block;
+}
+.imgBorder {
+	border: solid 3px #bbb;
+}
+.leftImg {
+	float: left;
+	border: solid 3px #bbb;
+}
+.brief_tab section h4, .brief_tab section h4 a, .brief_tab section h4 a:visited {
+	color: #0397d6;
+}
+.brief_tab section h4 a:hover {
+	color: #3CF;
+	text-decoration: none;
+}
+.TabbedPanelsContent p {
+	color: #6a6868;
+	padding: 0;
+	margin: 0 0 10px 0;
+	float: left;
+}
+.bullets {
+	float: left;
+	width: 70%;
+	display: block;
+	list-style:none;
+	line-height: 22px;
+	list-style-position: outside;
+	margin: 0 0 20px 0 !important;
+}
+.full {
+	width: 100% !important;
+}
+.noMargin {
+	margin: 0 !important;
+}
+.bullets li {
+	color: #6a6868;
+	padding: 0 0 0 10px;
+	margin: 0;
+	background: url(images/list-bullet.jpg) no-repeat 0 8px;
+}
+.absRight {
+	float: right;
+}
+.app-list {
+	margin: 0 0 30px 0;
+	padding: 0px 20px 20px 20px;
+	border: solid 1px #ccc;
+	outline: none 0;
+	background-color: #fff;
+	display: inline-block;
+	color:#6A6868;
+}
+
+.app-list h2 {
+	margin: 0 0 0px 0 !important;
+}
+.app-list p {
+	margin: 0 0 0px 0;
+	padding: 0;
+	border: none 0;
+	outline: none 0;
+	text-align: justify;
+}
+.app-list img {
+	margin: 5px 20px 10px 0;
+	outline: none 0;
+	float: left;
+	width: 100px;
+}
+.para h2 {
+	margin: 30px 0 15px 0 !important;
+}
+.icons {
+	display: inline-block;
+	border: thin solid #ccc;
+	margin: 0 5px 0 0;
+}
+.footer-links {
+	clear: both;
+	padding: 20px 0 0 0;
+	margin: 10px 0 0 0;
+	border-top: solid 1px #ccc;
+}
+.footer-links span {
+	color: #0397d7;
+	font-weight: 600;
+	font-size: 11px;
+	vertical-align: top;
+}

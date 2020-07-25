@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.brief {
+	width: 420px;
+	display:block;
+    margin-top: -335px;
+	float:right;
+}
+
+#SliderNameNavigation {
+	margin: 315px 0 0 0 !important;
+	padding: 0;
+	display: block;
+	height: 16px;
+	text-align: center;
+	overflow-y: display;
+}
+
+article {
+	display:block !important;
+}
