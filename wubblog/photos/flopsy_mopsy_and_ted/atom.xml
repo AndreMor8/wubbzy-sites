@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="https://www.w3.org/2005/Atom">
     <title>Flopsy, Mopsy, and Ted</title>
     <link rel="self" type="application/atom+xml" href="../../photos/flopsy_mopsy_and_ted/atom.xml" />
     <link rel="alternate" type="text/html" href="../../photos/flopsy_mopsy_and_ted/index.html" />
@@ -8,7 +8,7 @@
     <subtitle>A quick book created with my incredibly brilliant niece Viviana Ogawa. 
 
 This was the inspiration for what has now turned into the book/animated TVshow called Wubby, Widget, and Walden.</subtitle>
-    <generator uri="http://www.typepad.com/">TypePad</generator>
+    <generator uri="https://www.typepad.com/">TypePad</generator>
         <entry>
         <title>001mopsycover</title>
         <link rel="alternate" type="text/html" href="../../photos/flopsy_mopsy_and_ted/000mopsycover.html" />
@@ -22,7 +22,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f34409d8833-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>
@@ -42,7 +42,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f486b478834-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>
@@ -62,7 +62,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f3446c38833-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>
@@ -82,7 +82,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f486bce8834-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>
@@ -102,7 +102,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4871e48834-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>
@@ -122,7 +122,7 @@ This was the inspiration for what has now turned into the book/animated TVshow c
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="http://www.w3.org/1999/xhtml">
+                <div xmlns="https://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f3437d58833-115si" height="115" width="115" /></p>
                     <p></p>
                 </div>

@@ -325,7 +325,7 @@ body { text-align: center; } /* center on ie */
 
 	/* Reblog Button */
 	.entry-footer-share-buttons .share-link-reblog {
-		background-image: url(http://static.typepad.com/.shared/themes/common/images/share-link-bg-reblog.gif);
+		background-image: url(https://static.typepad.com/.shared/themes/common/images/share-link-bg-reblog.gif);
 		display: inline-block;
 		font-family: Verdana, sans-serif;
 		font-size: 10px;
@@ -342,7 +342,7 @@ body { text-align: center; } /* center on ie */
 
 	/* Digg Button */
 	.entry-footer-share-buttons .share-link-digg {
-		background-image: url(http://static.typepad.com/.shared/themes/common/images/share-link-bg-digg.gif);
+		background-image: url(https://static.typepad.com/.shared/themes/common/images/share-link-bg-digg.gif);
 		font-family: Verdana, sans-serif;
 		font-size: 10px;
 		height: 10px;
@@ -350,7 +350,7 @@ body { text-align: center; } /* center on ie */
 
 	/* Delicious Button */
 	.entry-footer-share-buttons .share-link-delicious {
-		background-image: url(http://static.typepad.com/.shared/themes/common/images/share-link-bg-delicious.gif);
+		background-image: url(https://static.typepad.com/.shared/themes/common/images/share-link-bg-delicious.gif);
 		font-family: Verdana, sans-serif;
 		font-size: 10px;
 		height: 10px;

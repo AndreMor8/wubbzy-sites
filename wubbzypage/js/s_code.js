@@ -1,6 +1,6 @@
 /* SiteCatalyst code version: H.17.
 Copyright 1997-2008 Omniture, Inc. More info available at
-http://www.omniture.com */
+https://www.omniture.com */
 
 var s_account="starzmediawubbzytemphomepage"
 var s=s_gi(s_account)

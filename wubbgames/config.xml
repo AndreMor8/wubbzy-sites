@@ -3,7 +3,7 @@
 <config>
 	<shellURL>wubbclubshell.swf</shellURL>
 	
-	<emailURL>http://www.smashingideas.com/cgi-bin/proxy/nph-proxy2.cgi/000000A/http/www.wubbgames.com/email.php</emailURL>
+	<emailURL>https://www.smashingideas.com/cgi-bin/proxy/nph-proxy2.cgi/000000A/http/www.wubbgames.com/email.php</emailURL>
 	
 	<games>
 		<disco>
@@ -12,7 +12,7 @@
 			<height>410</height>
 			<videoURL>videos/disco.flv</videoURL>
 			<printableURL>games/disco/printabledisco.swf</printableURL>
-			<storeURL window="_blank">http://www.fisher-price.com/us/wubbzy</storeURL>
+			<storeURL window="_blank">https://www.fisher-price.com/us/wubbzy</storeURL>
 		</disco>
 		<kickball>
 			<url>games/kickball/kickball.swf</url>
@@ -20,7 +20,7 @@
 			<height>543</height>
 			<videoURL>videos/kickball.flv</videoURL>
 			<printableURL>games/kickball/printablekickball.swf</printableURL>
-			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+			<storeURL>https://www.fisher-price.com/us/wubbzy</storeURL>
 		</kickball>
 		<kookyKostume>
 			<url>games/kookykostume/kostumekreator.swf</url>
@@ -42,7 +42,7 @@
 			<height>543</height>
 			<videoURL>videos/stackums.flv</videoURL>
 			<printableURL>games/stackums/printablestackums.swf</printableURL>
-			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+			<storeURL>https://www.fisher-price.com/us/wubbzy</storeURL>
 		</stackums>
 		<wubbHunt>
 			<url>games/wubbhunt/wubbhunt.swf</url>
@@ -50,7 +50,7 @@
 			<height>410</height>
 			<videoURL>videos/wubbhunt.flv</videoURL>
 			<printableURL>games/wubbhunt/printablewubbhunt.swf</printableURL>
-			<storeURL>http://www.fisher-price.com/us/wubbzy</storeURL>
+			<storeURL>https://www.fisher-price.com/us/wubbzy</storeURL>
 		</wubbHunt>
 	
 	</games>
