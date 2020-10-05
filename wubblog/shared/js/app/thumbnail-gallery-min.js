@@ -1,5 +1,5 @@
 <html>
-<head>
+<head><meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
 <meta name="robots" content="noarchive" />
 <meta name="googlebot" content="nosnippet" />
 </head>
