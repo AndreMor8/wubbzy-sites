@@ -83,15 +83,15 @@
 		</script>
 	</head>
 	<body onResize="test_resize()">
+		<script> 
+			function Launch(page, width, height) {
+				OpenWin = this.open(page, "promo_win", "toolbar=no, menubar=no ,location=no, scrollbars=yes, resizable=no, width=" + width + ", height=" + height + ", top=" + (screen.height/2 - height/2) + ", left=" + (screen.width/2 - width/2) + "\""); 
+			}
+		</script> 
 		<div id="index"><div>
-		<embed type="application/x-shockwave-flash" src="index.swf" width="100%" height="750" style="undefined" id="index" name="index" quality="true" allowscriptaccess="always">
+		<embed type="application/x-shockwave-flash" src="./index.swf" width="100%" height="750" style="undefined" id="index" name="index" quality="true" allowscriptaccess="always">
 		</div></div>
 		<script type="text/javascript" src="swfobject.js"></script>
-		<script language="JavaScript"> 
-	function Launch(page, width, height) { 
-		OpenWin = this.open(page, "promo_win", "toolbar=no, menubar=no ,location=no, scrollbars=yes, resizable=no, width=" + width + ", height=" + height + ", top=" + (screen.height/2 - height/2) + ", left=" + (screen.width/2 - width/2) + "\""); 
-	} 
-</script> 
 		<script type="text/javascript">
 			if(document.body.clientHeight>750){
 				winHeight = "100%";
