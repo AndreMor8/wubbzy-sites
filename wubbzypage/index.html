@@ -104,7 +104,7 @@
 				winWidth = "950";
 			}
 //			var winHeight = (window.height)
-			var so = new SWFObject("index.swf", "index", winWidth, winHeight, "9", "", true);
+			var so = new SWFObject("./index.swf", "index", winWidth, winHeight, "9", "", true);
 			so.addParam("allowScriptAccess", "always");			
 			so.useExpressInstall("expressinstall.swf");
 			so.write("index");
