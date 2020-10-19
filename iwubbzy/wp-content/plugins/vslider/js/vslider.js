@@ -3,10 +3,10 @@
  * @version: 1.0 - (2010/04/04)
  * @requires jQuery v1.2.2 or later
  * @author Ivan Lazarevic
- * Examples and documentation at: https://workshop.rs/projects/coin-slider/
+ * Examples and documentation at: http://workshop.rs/projects/coin-slider/
  
  * Licensed under MIT licence:
- *   https://www.opensource.org/licenses/mit-license.php
+ *   http://www.opensource.org/licenses/mit-license.php
 **/
 
 (function($) {

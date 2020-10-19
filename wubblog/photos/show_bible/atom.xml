@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="https://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom">
     <title>show bible</title>
     <link rel="self" type="application/atom+xml" href="../../photos/show_bible/atom.xml" />
     <link rel="alternate" type="text/html" href="../../photos/show_bible/index.html" />
     <id>tag:typepad.com,2003:gallery-101531</id>
     <updated>2004-11-29T04:59:37-08:00</updated>
     <subtitle></subtitle>
-    <generator uri="https://www.typepad.com/">TypePad</generator>
+    <generator uri="http://www.typepad.com/">TypePad</generator>
         <entry>
         <title>000cover_final</title>
         <link rel="alternate" type="text/html" href="../../photos/show_bible/000cover_final.html" />
@@ -20,7 +20,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4a98e88834-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -40,7 +40,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366c428833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -60,7 +60,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f3671458833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -80,7 +80,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4aa28f8834-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -100,7 +100,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366cb58833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -120,7 +120,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4a96108834-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -140,7 +140,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366ef38833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -160,7 +160,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366e7d8833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -180,7 +180,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366f2d8833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -200,7 +200,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366e918833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -220,7 +220,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4a9ba48834-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -240,7 +240,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f36703e8833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -260,7 +260,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f367d558833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -280,7 +280,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f367d418833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -300,7 +300,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f36738a8833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -320,7 +320,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f4a977d8834-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
@@ -340,7 +340,7 @@
         </author>
         <content type="html">
             <![CDATA[
-                <div xmlns="https://www.w3.org/1999/xhtml">
+                <div xmlns="http://www.w3.org/1999/xhtml">
                     <p><img src="../../.a/6a00d834521acb69e200e54f366ee18833-115wi" height="75" width="115" /></p>
                     <p></p>
                 </div>
