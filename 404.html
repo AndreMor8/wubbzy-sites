@@ -1,44 +1,38 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-  <title>AndreMor's website</title>
   <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+  <title>Wubbzy archived websites</title>
+  <meta property="og:title" content="Wubbzy archived websites">
+  <meta property="og:type" content="object">
+  <meta property="og:url" content="https://archive.wubb.ga">
+  <meta property="og:description" content="Wubbzy franchise websites, which are currently no longer available.">
+  <meta property="og:image" content="./assets/thumbnail.png">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="keywords" content="AndreMor, AndreMor#0008, Wubbzy">
+  <meta name="keywords" content="wwd, wow wow discord, wow wow wubbzy, wubbzy, wubbzypedia, websites, history">
   <meta name="author" content="AndreMor">
-  <link href="https://fonts.googleapis.com/css?family=Dosis:500&display=swap" rel="stylesheet">
-  <style>
-    body {
-      background-image: url("/background.png");
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      background-size: cover;
-      font-family: 'Dosis', sans-serif;
-    }
-
-    span {
-      background: rgba(243, 247, 129, 0.87);
-      padding: 6px;
-      border-style: hidden;
-      border-radius: 15%;
-      font-family: 'Dosis', sans-serif;
-    }
-    .yes {
-      font-size: 34px;
-     }
+  <link href="/assets/styles.css" rel="stylesheet">
+  <script defer src="assets/index.js"></script>
   </style>
 </head>
 
 <body>
-<center>
-  <div style="padding: 11px">
-    <h1 class="yes"><span>Page or File Not Found</span></h1>
+  <div id="page-left">
+    <h1><span>Page or File Not Found</span></h1>
     <p><span>There is no file to display in the specified path. You may have misspelled the path, or the file you requested does not exist here.</span></p>
     <p><span>If when entering a link to the archived pages you receive this error, possibly the file or page was not available when the page was archived and has been lost. So sad.</span></p>
     <br><br>
-    <a href="/"><button style="font-size: 1.6em">Go to the main page</button></a>
+    <a href="/"><button class="button button-404">Go to the main page</button></a>
   </div>
-</center>
+  <div id="page-right">
+    <img src="/assets/sad.png" width="200"><img>
+  </div>
+  <footer>
+    <div id="footer">
+      <p class="footer-elements"><span>© 2006 Starz Media</span></p>
+      <p class="footer-elements"><span>Archived by: <span id="andremor">...</span></span></p>
+    </div>
+  </footer>
 </body>
 </html>

@@ -37,13 +37,16 @@ span {
 }
 
 #page-left {
-    float: left;
+    display: inline-block;
+    position: absolute;
     padding: 11px;
 }
 
 #page-right {
+    position: absolute;
+    right: 0;
     text-align: center;
-    float: right;
+    display: inline-block;
     padding: 11px;
 }
 
@@ -60,12 +63,94 @@ footer {
 #footer {
     padding: 11px;
 }
+
 #invite {
     font-size: xx-large;
 }
+
 a {
     text-decoration: none;
 }
+
 a:hover {
     text-shadow: 2px 2px 3px rgb(28, 202, 22);
+}
+
+#thumb {
+    width: 345px;
+}
+
+.button {
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    border-radius: 10px;
+    outline: none;
+}
+
+.button-404 {
+    background-color: #eea300b9;
+    color: rgb(53, 53, 53);
+    font-size: x-large;
+}
+
+.button-404:hover {
+    background-color: #eea300;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button-stable {
+    background-color: #10b818c4;
+    color: rgb(255, 255, 255);
+    font-size: large;
+}
+
+.button-stable:hover {
+    background-color: #10b818;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.button-beta {
+    background-color: #fde610c0;
+    color: rgb(53, 53, 53);
+    font-size: large;
+}
+
+.button-beta:hover {
+    background-color: #fde510;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+@media only screen and (max-width: 1024px) {
+    body {
+        text-align: center !important;
+    }
+    #page-left {
+        display: block;
+        position: relative;
+    }
+    #page-right {
+        display: block;
+        position: relative;
+    }
+    #thumb {
+        width: 200px !important;
+    }
+    .footer-elements {
+        display: block;
+    }
+    #invite {
+        font-size: x-large;
+    }
+    footer {
+        position: relative;
+    }
+    .button {
+        font-size: medium;
+    }
 }
