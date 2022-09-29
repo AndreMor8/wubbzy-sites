@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+
 html {
     min-height: 100%;
     position: relative;
@@ -131,26 +132,33 @@ a:hover {
     body {
         text-align: center !important;
     }
+
     #page-left {
         display: block;
         position: relative;
     }
+
     #page-right {
         display: block;
         position: relative;
     }
+
     #thumb {
         width: 200px !important;
     }
+
     .footer-elements {
         display: block;
     }
+
     #invite {
         font-size: x-large;
     }
+
     footer {
         position: relative;
     }
+
     .button {
         font-size: medium;
     }
