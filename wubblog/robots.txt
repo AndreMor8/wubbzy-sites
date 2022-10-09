@@ -40,4 +40,3 @@ Disallow: /
 
 User-agent: Twitterbot
 Disallow:
-

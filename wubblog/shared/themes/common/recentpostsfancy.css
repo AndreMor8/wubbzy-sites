@@ -1,0 +1,67 @@
+/* Recent Posts Fancy */
+                ul.dates {
+                       list-style-type: none;
+                       padding: 0;
+                       margin-bottom: 20px;
+                       margin-top: 10px;
+                }
+
+                      ul.dates .recent-date {
+                          float: left;
+                          padding: 0 10px 0 0;
+                       }
+
+                        ul.dates li {
+                                position: relative;
+                                padding: 0 !important;
+                                margin-bottom: 16px !important;
+                                clear:both !important;
+                                min-height: 58px;
+                        }
+
+                      ul.dates .date {
+                                display: block;
+                                background-color: #333;
+                                text-align: center;
+                                color: #fff;
+                                border-radius: 5px;
+                                padding: 10px 11px 8px !important; 
+                                font-size: 14px !important;
+                                line-height: 14px !important;
+                        }
+
+                                ul.dates .date strong {
+                                        display: block;
+                                        font-size: 23px !important;
+                                        line-height: 23px !important;
+                                        margin-top: 4px;
+                                }
+
+                        ul.dates h3 {
+                                margin: 0;
+                                color: #333;
+                                padding-bottom: 2px;
+                                font-size: 1.4em !important;
+                                line-height: 1.1em;
+                        }
+
+                        ul.dates p {
+                                margin: 0;
+                                font-size: 14px;
+                        }
+
+                        ul.dates a, ul.dates a:hover {
+                                color: #777 !important;
+                                text-decoration: none;
+                        }
+
+                        ul.dates li:first-child {
+                                border-top: 0;
+                                padding-top: 0;
+                        }
+
+                                ul.dates li:first-child .date {
+                                        top: 0;
+                                }
+                                                                                    
+

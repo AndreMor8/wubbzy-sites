@@ -31,7 +31,7 @@
 .yellowBox,
 .yellowGreenBox,
 .redBox {
-	background: url(../images/atpcomment-gradient.png) top left repeat-x #ffffe6;
+	background: url(../images/atpcomment-gradient-2.png) top left repeat-x #ffffe6;
 	border: 1px solid;
 	margin: 10px 0 50px 0;
 	padding: 8px;
@@ -82,7 +82,7 @@
 }
 
 .captchaErrorText {
-  	background: url(../../images/atpcomment-error-icon.png) top left no-repeat;
+  	background: url(../../index-2.html) top left no-repeat;
   	padding-left: 20px;
   	font-weight: bold;
 }
@@ -142,4 +142,40 @@
 
 .comment {
     padding-top: 15px;
+}
+
+/* Responsive */
+.comment-form-group input  {
+  width: 60% !important;
+  display: block;
+  height: 34px;
+  padding: 6px 12px;
+  font-size: 14px;
+  line-height: 1.428571429;
+  color: #555555;
+  vertical-align: middle;
+  background-color: #ffffff;
+  border: 1px solid #cccccc;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+  -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+          transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+}
+
+/* Submit Buttons */
+#comments-open-footer .form-control,
+#comment-confirm-post {
+width: 100px;
+float: left;
+}
+
+#comments-open-footer .preview-button {
+margin-left: 10px;
+width: 115px !important;
+}
+
+#comment-edit {
+margin-left: 110px;
+width: 115px !important;
 }
