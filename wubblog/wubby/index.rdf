@@ -18,7 +18,7 @@
 <dc:language>en-US</dc:language>
 <dc:creator></dc:creator>
 <dc:date>2010-07-27T07:53:54-07:00</dc:date>
-<admin:generatorAgent rdf:resource="http://www.typepad.com/" />
+<admin:generatorAgent rdf:resource="https://www.typepad.com/" />
 
 
 <items>
@@ -69,9 +69,9 @@
 <description>Our friend Bob Boyle is the hardest working man in show business. He just released his first picture book last week --Hugo and the Really, Really, Really Long String-- and already he's done a commercial, and now, a music video,...</description>
 <content:encoded>&lt;p&gt;
 &lt;object width=&quot;350&quot; height=&quot;215&quot;&gt;
-&lt;param value=&quot;http://www.youtube.com/v/Dx4-MjP24VY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&quot; name=&quot;movie&quot;&gt;
+&lt;param value=&quot;https://www.youtube.com/v/Dx4-MjP24VY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&quot; name=&quot;movie&quot;&gt;
 &lt;param value=&quot;true&quot; name=&quot;allowFullScreen&quot;&gt;
-&lt;param value=&quot;always&quot; name=&quot;allowscriptaccess&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/Dx4-MjP24VY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;350&quot; height=&quot;215&quot;&gt;
+&lt;param value=&quot;always&quot; name=&quot;allowscriptaccess&quot;&gt;&lt;embed src=&quot;https://www.youtube.com/v/Dx4-MjP24VY&amp;hl=en_US&amp;fs=1&amp;color1=0x006699&amp;color2=0x54abd6&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; type=&quot;application/x-shockwave-flash&quot; width=&quot;350&quot; height=&quot;215&quot;&gt;
 &lt;/object&gt;
 &amp;nbsp;&amp;nbsp;&lt;/p&gt;
 &lt;p&gt;Our friend&amp;nbsp;&lt;a href=&quot;http://bobboyle.blogspot.com/&quot;&gt;Bob
@@ -115,7 +115,7 @@ pages you see here, you really owe it yourself to own a copy of &lt;em&gt;Hugo&l
  (buy a handful &lt;a href=&quot;http://www.amazon.com/Hugo-Really-Long-String-Picture/dp/0375834230/ref=sr_1_1?ie=UTF8&amp;s=books&amp;qid=1269361849&amp;sr=1-1&quot; target=&quot;_blank&quot;&gt;here on Amazon&lt;/a&gt;). Finally, watch this home-made 
 promo Bob produced in his Southern California neighborhood.&lt;/p&gt;
 
-&lt;p&gt;&lt;object height=&quot;211&quot; width=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;http://www.youtube.com/v/LW5pAEUphO8&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;http://www.youtube.com/v/LW5pAEUphO8&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; height=&quot;211&quot; width=&quot;350&quot;&gt;&lt;/object&gt;&lt;/p&gt;
+&lt;p&gt;&lt;object height=&quot;211&quot; width=&quot;350&quot;&gt;&lt;param name=&quot;movie&quot; value=&quot;https://www.youtube.com/v/LW5pAEUphO8&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1&quot;&gt;&lt;param name=&quot;allowFullScreen&quot; value=&quot;true&quot;&gt;&lt;param name=&quot;allowScriptAccess&quot; value=&quot;always&quot;&gt;&lt;embed src=&quot;https://www.youtube.com/v/LW5pAEUphO8&amp;color1=0xb1b1b1&amp;color2=0xcfcfcf&amp;hl=en_US&amp;feature=player_embedded&amp;fs=1&quot; type=&quot;application/x-shockwave-flash&quot; allowfullscreen=&quot;true&quot; allowscriptaccess=&quot;always&quot; height=&quot;211&quot; width=&quot;350&quot;&gt;&lt;/object&gt;&lt;/p&gt;
 
 &lt;p&gt;Best of luck, Bob. We all hope &lt;em&gt;Hugo’s&lt;/em&gt; a huge hit. - Eric&lt;/p&gt;
 
